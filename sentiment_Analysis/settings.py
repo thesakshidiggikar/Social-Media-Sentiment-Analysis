@@ -119,7 +119,7 @@ STATIC_URL = 'static/'
 
 # added by me manully
 STATICFILES_DIRS = [
-    BASE_DIR / "static",
+    BASE_DIR / "templates",
     
 ]
 
